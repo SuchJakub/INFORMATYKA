@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512673564 source:c:\users\jsuch\desktop\7.12.2017-infa\zadanie 1\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
