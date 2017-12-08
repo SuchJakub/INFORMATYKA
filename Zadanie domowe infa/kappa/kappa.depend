@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512077776 source:c:\users\jsuch\desktop\zadanie domowe infa\kappa\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
