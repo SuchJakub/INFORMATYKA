@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522999486 source:c:\users\student\desktop\6.04.2018 infa\main.cpp
+	<iostream>
+	<iomanip>
+
